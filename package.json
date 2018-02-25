@@ -1,0 +1,23 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/JJacek/learning-git-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/JJacek/learning-git-3/issues"
+  },
+  "homepage": "https://gitlab.com/JJacek/learning-git-3#README",
+  "description": "",
+  "devDependencies": {
+    "browser-sync": "^2.23.6"
+  }
+}
